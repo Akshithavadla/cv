@@ -1,0 +1,219 @@
+body {
+  /*font-family: "Montserrat";*font-family: 'Grape Nuts', cursive;
+  text-align: center;/*padding-left: 80px;font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+h1{
+/*  font-family: 'Grape Nuts', cursive; color: #ff4c68;*/
+font-size: 40px;
+}
+ h2, h3, h4, h5 {/*font-family: 'Grape Nuts', cursive;font-family: 'Grape Nuts', cursive;
+  /*font-family: "Montserrat-Bold";font-family: 'Grape Nuts', cursive;
+  font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+.read-more{
+  color: #ff4c68;
+}
+p {
+  color: #8f8f8f;/*font-family: 'Grape Nuts', cursive;*/
+  font-weight: bold;color: #ff4c68;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+/* Headings */
+
+.big-heading {
+/*  font-family: 'Grape Nuts', cursive;*/
+ font-size: 2.5rem;/*font-family: 'Grape Nuts', cursive;*/
+  line-height: 1.5;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+.section-heading {
+  font-size: 3rem;/*font-family: 'Grape Nuts', cursive;*/
+  top:20%;
+  line-height: 1.5;color: #ff4c68;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+.section-heading-2 {
+  font-size: 3rem;/*font-family: 'Grape Nuts', cursive;*/
+  top:25%;
+  line-height: 1.5;color: #ff4c68;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+.section-heading-3 {
+  font-size: 3rem;/*font-family: 'Grape Nuts', cursive;*/
+  top:15%;
+  line-height: 1.5;color: #141E27;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+element.style {
+  margin-top:30px; 
+    padding-top: 60px;
+}
+
+/* Containers */
+
+.container-fluid{/*font-family: 'Sacramento', cursive;font-family:*/
+  padding: 17% 35%;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+      padding-left: 55px;
+}
+
+/* Sections */
+.colored-section {background-color: #ff6961;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+/* background-color: #ff4c68;font-family: "Montserrat-Black";*/
+}
+
+.white-section {
+  background-color: #fff;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+
+/* Navigation Bar */
+
+.navbar {font-size: 15.5rem;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {/*font-family: 'Sacramento', cursive;font-family: 'Rubik Microbe', cursive;*/
+  /*font-family: "Ubuntu";font-family: 'Grape Nuts', cursive;*/
+  font-size: 15.5rem;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  font-weight: bold;
+}
+
+.nav-item {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 2rem;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  /*font-family: 'Sacramento', cursive;
+  font-family: 'Sacramento', cursive;font-family:*/
+}
+.nav-link:hover {
+  color:black;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0; color:#FBACCC;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+/* Title Section */
+
+#title {background-color: #ff6961;/*#ff4c68;
+/*  background-color:#FBACCC;/*#F3D5C0;/*F9C5D5;/*F999B7;/*FFBDE6;/*FFC2B4; /*#ff4c68;FFC2B4*/
+  color: #fff;
+  text-align: left;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+#title .container-fluid {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  padding: 3% 20% 17%;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 55%;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  top:75%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 10%;border: 19px solid #fff;
+}
+
+img{/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+
+  border: 5px solid #fff;
+
+}
+/* Features Section */
+
+#features {padding: 100px;
+  position: relative;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+
+.feature-title {color: #ff4c68;/font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  font-size: 1.5rem;/*color:#FBACCC;font-family: 'Grape Nuts', cursive;*/
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {color: #ff4c68;height:120px;width:120px;
+  /*color: /*#ef8172;*/#FBACCC;*/
+  margin-bottom: 0rem;
+}
+
+.icon:hover {
+/*  color: #ef8172;*/color:#180A0A;
+}
+.nav-link:hover {
+  color: #180A0A;
+}
+
+#education {padding: 120px;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+/*  background-color: #ef8172;font-family: 'Grape Nuts', cursive;color: /*#ef8172;
+/*background-color:#FBACCC;*/
+}
+
+.education-text {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  font-size: 3rem;color:#fff;
+  line-height: 1.5;
+}
+
+.education-image {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  /*width: 10%;
+  border-radius: 100%;
+  margin: 20px;/*padding: 50px;*/
+  width: 15%;/*font-family: 'Grape Nuts', cursive;*/
+  top:55%;  border-radius: 100%;
+/*  transform: rotate(15deg);*/
+/*  position: absolute;bottom:10%;*/
+  right: 30%;border: 4px solid #fff;
+}
+#projects {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  padding: 100px;
+}
+
+.projects-text {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.projects-column {
+  padding: 3% 2%;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+.btn btn-lg btn-block btn-outline-dark{
+  color:#FBACCC;
+}
+
+.social-icon {/*padding :100%;*/
+  margin: 20px 10px;
+}
+/*
+.footer{padding-left: 60px;
+  font-family: "Montserrat-Black";  background-color:#FBACCC;padding:20%;
+}
+.cta{
+  background-color:#FBACCC;padding:20%;
+}*/
+.end{
+  padding-left: 40%;color:180A0A;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+@media (max-width: 1028px) {
+
+  #title {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+    text-align: center;
+  }
+
+  .title-image {/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+    position: absolute;
+    transform: rotate(60);
+  }
+}
+.cpa{
+  font-color:black;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+element.style {
+    padding-left: 30px;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+}
+h6 {/*font-family: 'Grape Nuts', cursive;*/color:#180A0A;/*font-family: 'Grape Nuts', cursive;*/font-family: "Montserrat-Black";
+  /*font-family: "Montserrat-Bold";font-family: 'Grape Nuts', cursive;*/
+}
